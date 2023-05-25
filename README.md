@@ -1,5 +1,7 @@
 # ChAI-notes App
 
+- `npm run dev`
+
 ## What are we about to get into?
 
 We will be using the ChatGPT API to create a chat notes app.
